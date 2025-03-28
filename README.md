@@ -1,5 +1,6 @@
 # 🚀 GravityRouge
 A 2D space game developed in Unity, in which you move among asteroids in a weightless state, using a jetpack and a rope to survive. Your goal is to collect 10 energy cores between procedurally placed asteroids.
+
 ![Gameplay](media/gravityrouge.png) 
 
 ---
@@ -12,8 +13,9 @@ A 2D space game developed in Unity, in which you move among asteroids in a weigh
 - 🪢 **Grappling hook mechanic**  
   Right-click to shoot a rope toward a nearby asteroid. Use the mouse scroll to shorten or lengthen the rope. It breaks if overstretched!
 
-- 🌌 **Asteroid gravity**  
+- 🌌 **Asteroid gravity**
   Each asteroid platform exerts its own gravity field. The player is constantly pulled toward the closest one.
+  
 ![Asteroid Gravity](media/asteroidsgravity.gif)
 
 - 💥 **Deadly moving asteroids**  
@@ -24,6 +26,7 @@ A 2D space game developed in Unity, in which you move among asteroids in a weigh
 
 - ⏱️ **Win timer**  
   After collecting the final energy core, a “YOU WIN!” panel appears along with your completion time.
+  
 ![YOU WIN](media/youwin.png)
 
 ---
@@ -44,7 +47,8 @@ A 2D space game developed in Unity, in which you move among asteroids in a weigh
   Subtle visual flames appear in the direction of movement when using the jetpack.
 
 - 🟥 **Grappling rope tension**  
-  The rope changes color as it tightens. If it turns red – it snaps!
+The rope changes color as it tightens. If it turns red – it snaps!
+
 ![Grappling Rope](media/grapplehookdisconnect.gif)
 
 ---
