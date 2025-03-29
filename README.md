@@ -1,4 +1,4 @@
-# 🚀 GravityRouge
+ # 🚀 GravityRouge
 A 2D space game developed in Unity, in which you move among asteroids in a weightless state, using a jetpack and a rope to survive. Your goal is to collect 10 energy cores between procedurally placed asteroids.
 
 ![Gameplay](media/gravityrouge.png) 
@@ -61,18 +61,12 @@ The rope changes color as it tightens. If it turns red – it snaps!
 
 ## 🎨 Assets & Credits
 
-- 🔋 [Energy Icon](https://opengameart.org/content/energy-icon)  
-  by **AntumDeluge** — License: [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/)
-- 🚀 [Spaceship 2D](https://opengameart.org/content/spaceship-2d)  
-  by **Kenney** — License: [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
-- 🛡️ [Shield Effect](https://opengameart.org/content/shield-effect)  
-  by **C0D3M4513R** — License: [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
-- 👨‍🚀 [Cosmonaut (Top-down view)](https://opengameart.org/content/cosmonaut-top-down-view)  
-  by **AntumDeluge** — License: [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/)
-- 🌌 [Ulukai’s Space Skyboxes](https://opengameart.org/content/ulukais-space-skyboxes)  
-  by **Ulukai** — License: [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/)
-- 🌋 [Volcano Lava Floor](https://opengameart.org/content/volcano-lava-floor)  
-  by **surt** — License: [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+- 🔋 [Energy Icon](https://opengameart.org/content/energy-icon) by **AntumDeluge** — License: [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+- 🚀 [Spaceship 2D](https://opengameart.org/content/spaceship-2d) by **Kenney** — License: [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+- 🛡️ [Shield Effect](https://opengameart.org/content/shield-effect) by **C0D3M4513R** — License: [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+- 👨‍🚀 [Cosmonaut (Top-down view)](https://opengameart.org/content/cosmonaut-top-down-view) by **AntumDeluge** — License: [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+- 🌌 [Ulukai’s Space Skyboxes](https://opengameart.org/content/ulukais-space-skyboxes) by **Ulukai** — License: [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+- 🌋 [Volcano Lava Floor](https://opengameart.org/content/volcano-lava-floor) by **surt** — License: [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 - 🪨 [Asteroids](https://opengameart.org/content/asteroids-0)
 by **p0ss** — License: [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 
