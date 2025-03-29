@@ -73,6 +73,8 @@ The rope changes color as it tightens. If it turns red – it snaps!
   by **Ulukai** — License: [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 - 🌋 [Volcano Lava Floor](https://opengameart.org/content/volcano-lava-floor)  
   by **surt** — License: [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+- 🪨 [Asteroids](https://opengameart.org/content/asteroids-0) 
+  by **p0ss** – License: [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 
 ---
 
