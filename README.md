@@ -20,6 +20,11 @@ A 2D space game developed in Unity, in which you move among asteroids in a weigh
 
 - 💥 **Deadly moving asteroids**  
   Asteroids fly in from the left and right edges of the screen. Getting hit results in a Game Over.
+
+<p align="center">
+  <img src="media/asteroidcollision.gif" alt="Asteroid Collision">
+</p>
+  
 - 🎯 **Goal: Collect 10 energy cores**  
   Energy cores spawn in new positions each game – without overlapping with asteroids – and appear every 10 platforms.
 - ⏱️ **Win timer**  
