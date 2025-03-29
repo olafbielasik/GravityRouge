@@ -14,7 +14,9 @@ A 2D space game developed in Unity, in which you move among asteroids in a weigh
 - 🌌 **Asteroid gravity**
   Each asteroid platform exerts its own gravity field. The player is constantly pulled toward the closest one.
   
-![Asteroid Gravity](media/asteroidsgravity.gif)
+<p align="center">
+  <img src="media/asteroidsgravity.gif" alt="Asteroid Gravity">
+</p>
 
 - 💥 **Deadly moving asteroids**  
   Asteroids fly in from the left and right edges of the screen. Getting hit results in a Game Over.
@@ -43,7 +45,9 @@ A 2D space game developed in Unity, in which you move among asteroids in a weigh
 - 🟥 **Grappling rope tension**  
 The rope changes color as it tightens. If it turns red – it snaps!
 
-![Grappling Rope](media/grapplehookdisconnect.gif)
+<p align="center">
+  <img src="media/grapplehookdisconnect.gif" alt="Grappling Rope">
+</p>
 
 ---
 
