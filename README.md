@@ -3,7 +3,7 @@ A 2D space game developed in Unity, in which you move among asteroids in a weigh
 
 ## 📺 Gameplay;
 <p align="center">
-  <img src="gravity.png" alt="GravityRogue">
+  <img src="media/gravity.png" alt="GravityRogue">
 </p>
 <p align="center">
   🎥 <a href="https://www.youtube.com/watch?v=E2xUcSqLpls">Watch on YouTube</a>
