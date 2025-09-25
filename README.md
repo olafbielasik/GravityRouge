@@ -70,7 +70,7 @@ The rope changes color as it tightens. If it turns red – it snaps!
 | `Space`    | Push in the selected direction           |
 | `Right Click` | Shoot grappling hook                |
 | `Scroll`   | Adjust rope length                       |
-| `G`        | (Optional) Invert gravity                |
+| `G`        | Invert gravity                |
 
 ---
 
